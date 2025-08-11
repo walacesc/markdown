@@ -41,6 +41,6 @@ Me chamo **Walace** e este plano foi desenvolvido com o objetivo de testar minha
 
 💡 **Objetivo Final:** Evoluir continuamente como desenvolvedor, aprimorando minhas habilidades técnicas e construindo projetos cada vez mais completos.
 
-em breve*mais*conteúdos!! valeu
+em breve *mais conteúdos! valeu*
 
 
