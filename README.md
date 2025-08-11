@@ -23,7 +23,7 @@ Me chamo **Walace** e este plano foi desenvolvido com o objetivo de testar minha
 ### 📌 Unidade 02 — Desenvolvimento Orientado a Testes (TDD)
 - 🧪 Introdução ao **TDD** com **Node.js**
 - 🔍 Compreensão do ciclo de **Desenvolvimento Orientado a Testes**
-- 🚀 Aplicação do TDD em projetos reais
+- 🚀 Aplicação do TDD em projetos reais.
 
 ---
 
