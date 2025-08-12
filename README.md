@@ -3,7 +3,7 @@
 Olá, pessoal! 👋  
 Me chamo **Walace** e este plano foi desenvolvido com o objetivo de testar minhas **habilidades iniciais**, para que eu possa me **desenvolver** cada vez mais ao longo do tempo.  
 
-📚 Estou aqui para *compartilhar* um breve resumo da **matéria** que estou estudando no curso **Engenharia de Software**.
+📚 Estou aqui para *compartilhar* um breve resumo da **matéria** que estou estudando no curso de **Engenharia de Software**.
 
 ---
 
